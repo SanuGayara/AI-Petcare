@@ -1,0 +1,7 @@
+transformers==4.40.0
+datasets~=3.5.0
+accelerate
+torch>=2.0.0
+scikit-learn
+gradio~=3.50.2
+pandas~=2.2.3
